@@ -9,12 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-spring/parallax": "^9.7.3",
+    "@react-spring/web": "^9.7.3",
     "@react-three/drei": "^9.105.6",
     "@react-three/fiber": "^8.16.3",
+    "@thirdweb-dev/react": "^4.6.15",
+    "@thirdweb-dev/sdk": "^4.0.76",
+    "ethers": "^5.7.2",
     "framer-motion": "^11.1.7",
     "next": "14.2.3",
     "react": "^18",
     "react-dom": "^18",
+    "react-fast-marquee": "^1.6.4",
     "react-icons": "^5.2.0",
     "three": "^0.164.1"
   },
